@@ -20,9 +20,6 @@
             <td><a href="mailto:yuvalsaybak@gmail.com">
             <img height="50" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"/>
             </a></td>
-            <td><a href="https://www.facebook.com/yuvalsaybak16">
-            <img height="50" src="https://www.vectorlogo.zone/logos/facebook/facebook-ar21.svg" />
-            </a></td>
             <td><a href="https://www.linkedin.com/in/yuval-saybak/">
             <img height="50" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" />
             </a></td>
