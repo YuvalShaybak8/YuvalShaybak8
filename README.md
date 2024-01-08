@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **React Project**
 
-- 🌱 I’m currently learning *React**
+- 🌱 I’m currently learning **React**
 
 - ⚡ Fun fact **I am Funny**
 
