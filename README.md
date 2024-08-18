@@ -1,15 +1,15 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://yuvalsaybak.io)
 
 <h1 align="center">Hi 👋, I'm Yuval Shaybak</h1>
-<h3 align="center">✌ A passionate student of Computer-Science in The College of Management Academic Studies, 3rd year.</h3>
+<h3 align="center">✌ A Computer Science graduate from The College of Management Academic Studies, passionate about frontend and full-stack development.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🤔 Looking for a software developer job.
+- 🤔 Looking for a full-stack or frontend developer job.
 
 - 🔭 I’m currently working on **React Project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Advanced React Techniques**
 
 - ⚡ Fun fact **I am Funny**
 
